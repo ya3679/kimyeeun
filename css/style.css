@@ -1,0 +1,472 @@
+#main #section1 {
+  width: 100%;
+  height: 800px;
+  position: relative;
+  background: #f0f0f0;
+}
+
+#main #section1 .container {
+  padding: 50px;
+}
+
+#main #section1 .container .top {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#main #section1 .container .top .left {
+  padding: 20px 800px 20px 70px;
+}
+
+#main #section1 .container .top .left img {
+  width: 100%;
+}
+
+#main #section1 .container .top .left h1 {
+  font-size: 45px;
+  font-weight: 700;
+}
+
+#main #section1 .container .top .left h2 {
+  padding: 20px 0 0 0;
+  font-size: 45px;
+  font-weight: 700;
+}
+
+#main #section1 .container .top .right {
+  padding: 20px;
+  border-left: 2px solid #000;
+}
+
+#main #section1 .container .top .right h2 {
+  font-size: 40px;
+  padding: 10px 0;
+  font-weight: 600;
+}
+
+#main #section1 .container .top .right h3 {
+  font-size: 30px;
+  padding: 0 0 10px 0;
+}
+
+#main #section1 .container .top .right .mail ul li {
+  padding: 2px 0;
+}
+
+#main #section1 .container .top .right .mail ul li a {
+  font-size: 16px;
+}
+
+#main #section1 .container .bottom {
+  padding: 350px 0 0 1130px;
+  line-height: 180%;
+}
+
+#main #section1 .container .bottom h2 {
+  font-size: 25px;
+  font-weight: 600;
+  padding: 10px 0;
+}
+
+#main #section1 .container .bottom h3 {
+  font-size: 19px;
+}
+
+#main #section2 {
+  width: 100%;
+  position: relative;
+  height: 900px;
+  padding: 70px 0;
+  background: #f0f0f0;
+}
+
+#main #section2 .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 1670px;
+  padding: 40px 0;
+  margin: 0 auto;
+  border-radius: 7%;
+}
+
+#main #section2 .container .left {
+  width: 50%;
+}
+
+#main #section2 .container .left .moniter {
+  text-align: center;
+}
+
+#main #section2 .container .left .moniter img {
+  width: 85%;
+  -webkit-box-shadow: 10px 10px 10px;
+          box-shadow: 10px 10px 10px;
+  border-radius: 10px;
+}
+
+#main #section2 .container > .right {
+  width: 50%;
+  border-radius: 30px;
+  background: #fff;
+  height: 500px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-shadow: 10px 10px 10px;
+          box-shadow: 10px 10px 10px;
+}
+
+#main #section2 .container > .right .container .text {
+  line-height: 40px;
+}
+
+#main #section2 .container > .right .container .text h3 {
+  font-size: 23px;
+}
+
+#main #section2 .container > .right .container .text h4 {
+  padding: 20px 0;
+  font-size: 23px;
+  border-bottom: 1px solid #ddd;
+}
+
+#main #section2 .container > .right .container .text .skil {
+  padding: 20px 0 0 0;
+}
+
+#main #section2 .container > .right .container .text .skil .skill1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 0;
+}
+
+#main #section2 .container > .right .container .text .skil .skill1 .left {
+  width: 30%;
+}
+
+#main #section2 .container > .right .container .text .skil .skill1 .left h2 {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+#main #section2 .container > .right .container .text .skil .skill1 .left h2 i {
+  padding: 0 5px 0 0;
+  font-weight: 700;
+}
+
+#main #section2 .container > .right .container .text .skil .skill2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 0;
+}
+
+#main #section2 .container > .right .container .text .skil .skill2 .left {
+  width: 30%;
+}
+
+#main #section2 .container > .right .container .text .skil .skill2 .left h2 {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+#main #section2 .container > .right .container .text .skil .skill2 .left h2 i {
+  padding: 0 5px 0 0;
+  font-weight: 700;
+}
+
+#main #section2 .container > .right .container .text .skil .skill3 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 0;
+}
+
+#main #section2 .container > .right .container .text .skil .skill3 .left {
+  width: 30%;
+}
+
+#main #section2 .container > .right .container .text .skil .skill3 .left h2 {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+#main #section2 .container > .right .container .text .skil .skill3 .left h2 i {
+  padding: 0 5px 0 0;
+  font-weight: 700;
+}
+
+#main #section2 .container > .right .container .text .skil .skill4 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 0;
+}
+
+#main #section2 .container > .right .container .text .skil .skill4 .left {
+  width: 30%;
+}
+
+#main #section2 .container > .right .container .text .skil .skill4 .left h2 {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+#main #section2 .container > .right .container .text .skil .skill4 .left h2 i {
+  padding: 0 5px 0 0;
+  font-weight: 700;
+}
+
+#main #section3 {
+  width: 100%;
+  position: relative;
+  height: 800px;
+  padding: 30px 0;
+  background: #f0f0f0;
+}
+
+#main #section3 .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 1670px;
+  padding: 40px 0;
+  margin: 0 auto;
+  border-radius: 7%;
+}
+
+#main #section3 .container .left {
+  width: 50%;
+}
+
+#main #section3 .container .left .moniter {
+  text-align: center;
+}
+
+#main #section3 .container .left .moniter img {
+  width: 85%;
+  -webkit-box-shadow: 10px 10px 10px;
+          box-shadow: 10px 10px 10px;
+  border-radius: 10px;
+}
+
+#main #section3 .container > .right {
+  width: 50%;
+  border-radius: 30px;
+  background: #fff;
+  height: 500px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-shadow: 10px 10px 10px;
+          box-shadow: 10px 10px 10px;
+}
+
+#main #section3 .container > .right .container .text {
+  line-height: 40px;
+}
+
+#main #section3 .container > .right .container .text h3 {
+  font-size: 23px;
+}
+
+#main #section3 .container > .right .container .text h4 {
+  padding: 20px 0;
+  font-size: 23px;
+  border-bottom: 1px solid #ddd;
+}
+
+#main #section3 .container > .right .container .text .skil {
+  padding: 20px 0 0 0;
+}
+
+#main #section3 .container > .right .container .text .skil .skill1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 0;
+}
+
+#main #section3 .container > .right .container .text .skil .skill1 .left {
+  width: 30%;
+}
+
+#main #section3 .container > .right .container .text .skil .skill1 .left h2 {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+#main #section3 .container > .right .container .text .skil .skill1 .left h2 i {
+  padding: 0 5px 0 0;
+  font-weight: 700;
+}
+
+#main #section3 .container > .right .container .text .skil .skill2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 0;
+}
+
+#main #section3 .container > .right .container .text .skil .skill2 .left {
+  width: 30%;
+}
+
+#main #section3 .container > .right .container .text .skil .skill2 .left h2 {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+#main #section3 .container > .right .container .text .skil .skill2 .left h2 i {
+  padding: 0 5px 0 0;
+  font-weight: 700;
+}
+
+#main #section3 .container > .right .container .text .skil .skill3 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 0;
+}
+
+#main #section3 .container > .right .container .text .skil .skill3 .left {
+  width: 30%;
+}
+
+#main #section3 .container > .right .container .text .skil .skill3 .left h2 {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+#main #section3 .container > .right .container .text .skil .skill3 .left h2 i {
+  padding: 0 5px 0 0;
+  font-weight: 700;
+}
+
+#main #section4 {
+  width: 100%;
+  position: relative;
+  height: 800px;
+  padding: 30px 0 0 0;
+  background: #f0f0f0;
+}
+
+#main #section4 .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 1670px;
+  padding: 40px  0;
+  margin: 0 auto;
+  border-radius: 7%;
+}
+
+#main #section4 .container .left {
+  width: 50%;
+}
+
+#main #section4 .container .left .moniter {
+  text-align: center;
+}
+
+#main #section4 .container .left .moniter img {
+  width: 85%;
+  -webkit-box-shadow: 10px 10px 10px;
+          box-shadow: 10px 10px 10px;
+  border-radius: 10px;
+}
+
+#main #section4 .container > .right {
+  width: 50%;
+  border-radius: 30px;
+  background: #fff;
+  -webkit-box-shadow: 10px 10px 10px;
+          box-shadow: 10px 10px 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#main #section4 .container > .right .container .text {
+  line-height: 40px;
+}
+
+#main #section4 .container > .right .container .text h3 {
+  font-size: 23px;
+}
+
+#main #section4 .container > .right .container .text h4 {
+  padding: 20px 0;
+  font-size: 23px;
+  border-bottom: 1px solid #ddd;
+}
+
+#main #section4 .container > .right .container .text .skil {
+  padding: 20px 0 0 0;
+}
+
+#main #section4 .container > .right .container .text .skil .skill1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 0;
+}
+
+#main #section4 .container > .right .container .text .skil .skill1 .left {
+  width: 30%;
+}
+
+#main #section4 .container > .right .container .text .skil .skill1 .left h2 {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+#main #section4 .container > .right .container .text .skil .skill1 .left h2 i {
+  padding: 0 5px 0 0;
+  font-weight: 700;
+}
+
+#main #section4 .container > .right .container .text .skil .skill2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 0;
+}
+
+#main #section4 .container > .right .container .text .skil .skill2 .left {
+  width: 30%;
+}
+
+#main #section4 .container > .right .container .text .skil .skill2 .left h2 {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+#main #section4 .container > .right .container .text .skil .skill2 .left h2 i {
+  padding: 0 5px 0 0;
+  font-weight: 700;
+}
+
+#main #section4 .container > .right .container .text .skil .skill3 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 10px 0;
+}
+
+#main #section4 .container > .right .container .text .skil .skill3 .left {
+  width: 30%;
+}
+
+#main #section4 .container > .right .container .text .skil .skill3 .left h2 {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+#main #section4 .container > .right .container .text .skil .skill3 .left h2 i {
+  padding: 0 5px 0 0;
+  font-weight: 700;
+}

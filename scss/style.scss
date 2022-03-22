@@ -1,0 +1,435 @@
+@charset "UTF-8";
+
+#main{
+    
+    #section1{
+        width:100%;
+        height:800px;
+        position:relative;
+        background:#f0f0f0;
+        
+        .container{
+            padding:50px;
+            .top{
+                display:flex;
+                
+                .left{
+                    padding:20px 800px 20px 70px;
+                    img{
+                        width:100%;
+
+                    }
+                    h1{
+                        font-size: 45px;
+                        font-weight: 700;
+  
+                      }
+                    h2{
+                      padding: 20px 0 0 0;
+                      font-size: 45px;
+                      font-weight: 700;
+
+                    }
+                }
+                .right{
+                    padding: 20px;
+                    border-left:2px solid #000;
+                    
+                    h2{
+                        font-size: 40px;
+                        padding:10px 0;
+                        font-weight: 600;
+
+                    }
+                    h3{
+                        
+                        font-size:30px;
+                        padding:0 0 10px 0;
+                    }
+                    .mail{
+                        ul{
+                            li{
+                                padding:2px 0;
+                                a{
+                                    font-size: 16px;
+
+                                }
+                            }
+                        }
+
+                    }
+
+                }
+            }
+            .bottom{
+                padding:350px 0 0 1130px;
+                line-height: 180%;
+                h2{
+                    font-size: 25px;
+                    font-weight:600;
+                    padding:10px 0;
+                }
+                h3{
+                    font-size:19px;
+                }
+            }
+            
+           
+        }
+        
+    }
+    #section2{
+        width:100%;
+        position:relative;
+        height:900px;
+        padding:70px 0;
+        background:#f0f0f0;
+        
+       
+        
+        .container{
+            display:flex;
+            max-width: 1670px;
+            padding:40px 0;
+            margin:0 auto;
+            border-radius: 7%;
+            
+
+           .left{
+                width:50%;
+                .moniter{
+                    text-align: center;
+                   
+                    img{
+                        width:85%;
+                        box-shadow: 10px 10px 10px;
+                        border-radius: 10px;
+                    }
+                    
+                }
+                
+                
+           }
+           > .right{
+                width:50%;
+                border-radius: 30px;
+                background: #fff;
+                height:500px;
+                display:flex;
+                box-shadow: 10px 10px 10px;
+                
+                .container{
+                    .text{
+                        line-height: 40px;
+
+                        h3{
+                            font-size:23px;
+                        }
+                        h4{
+                            padding:20px 0;
+                            font-size:23px;
+                            border-bottom: 1px solid #ddd;
+                        }
+                        
+                        .skil{
+                            padding:20px 0 0 0;
+                            
+                            .skill1{
+                                display:flex;
+                                padding: 10px 0;
+                                .left{
+                                    width:30%;
+                                    h2{
+                                        font-weight:700;
+                                        font-size:25px;
+                                        i{
+                                            padding:0 5px 0 0 ;
+                                            font-weight:700;
+                                        }
+                                    }
+                                }
+                               
+                                
+                            }
+                            .skill2{
+                                display:flex;
+                                padding: 10px 0;
+                                .left{
+                                    width:30%;
+                                    h2{
+                                        font-weight:700;
+                                        font-size:25px;
+                                        i{
+                                            padding:0 5px 0 0 ;
+                                            font-weight:700;
+                                        }
+                                    }
+                                }
+                               
+                                
+                            }
+                            .skill3{
+                                display:flex;
+                                padding: 10px 0;
+                                .left{
+                                    width:30%;
+                                    h2{
+                                        font-weight:700;
+                                        font-size:25px;
+                                        i{
+                                            padding:0 5px 0 0 ;
+                                            font-weight:700;
+                                        }
+                                    }
+                                }
+                                
+                                
+                                
+                            }
+                            .skill4{
+                                display:flex;
+                                padding: 10px 0;
+                                .left{
+                                    width:30%;
+                                    h2{
+                                        font-weight:700;
+                                        font-size:25px;
+                                        i{
+                                            padding:0 5px 0 0 ;
+                                            font-weight:700;
+                                        }
+                                    }
+                                }
+                                
+                                
+                                
+                            }
+
+                        }
+                    }
+                }
+           }
+        }
+    }
+    #section3{
+        width:100%;
+        position:relative;
+        height:800px;
+        padding:30px 0;
+        background:#f0f0f0;
+        
+        .container{
+            display:flex;
+            max-width: 1670px;
+            padding:40px 0;
+            margin:0 auto;
+            border-radius: 7%;
+            
+
+           .left{
+                width:50%;
+                .moniter{
+                    text-align: center;
+                   
+                    img{
+                        width:85%;
+                        box-shadow: 10px 10px 10px;
+                        border-radius: 10px;
+                    }
+                    
+                }
+                
+                
+           }
+           > .right{
+                width:50%;
+                border-radius: 30px;
+                background: #fff;
+                height:500px;
+                display:flex;
+                box-shadow: 10px 10px 10px;
+                
+                .container{
+                    .text{
+                        line-height: 40px;
+
+                        h3{
+                            font-size:23px;
+                        }
+                        h4{
+                            padding:20px 0;
+                            font-size:23px;
+                            border-bottom: 1px solid #ddd;
+                        }
+                        
+                        .skil{
+                            padding:20px 0 0 0;
+                            
+                            .skill1{
+                                display:flex;
+                                padding: 10px 0;
+                                .left{
+                                    width:30%;
+                                    h2{
+                                        font-weight:700;
+                                        font-size:25px;
+                                        i{
+                                            padding:0 5px 0 0 ;
+                                            font-weight:700;
+                                        }
+                                    }
+                                }
+                                
+                                
+                            }
+                            .skill2{
+                                display:flex;
+                                padding: 10px 0;
+                                .left{
+                                    width:30%;
+                                    h2{
+                                        font-weight:700;
+                                        font-size:25px;
+                                        i{
+                                            padding:0 5px 0 0 ;
+                                            font-weight:700;
+                                        }
+                                    }
+                                }
+                               
+                                
+                            }
+                            .skill3{
+                                display:flex;
+                                padding: 10px 0;
+                                .left{
+                                    width:30%;
+                                    h2{
+                                        font-weight:700;
+                                        font-size:25px;
+                                        i{
+                                            padding:0 5px 0 0 ;
+                                            font-weight:700;
+                                        }
+                                    }
+                                }
+                               
+                                
+                                
+                            }
+                            
+
+                        }
+                    }
+                }
+           }
+        }
+    }
+    #section4{
+        width:100%;
+        position:relative;
+        height:800px;
+        padding:30px 0 0 0;
+        background:#f0f0f0;
+        .container{
+            display:flex;
+            max-width: 1670px;
+            padding:40px  0;
+            margin:0 auto;
+            border-radius: 7%;
+            .left{
+                width:50%;
+                .moniter{
+                    text-align: center;
+                   
+                    img{
+                        width:85%;
+                        box-shadow: 10px 10px 10px;
+                        border-radius: 10px;
+                    }
+                    
+                }       
+            }
+            > .right{
+                width:50%;
+                border-radius: 30px;
+                background: #fff;
+                box-shadow: 10px 10px 10px;
+                display:flex;
+                
+                .container{
+                    .text{
+                        line-height: 40px;
+
+                        h3{
+                            font-size:23px;
+                        }
+                        h4{
+                            padding:20px 0;
+                            font-size:23px;
+                            border-bottom: 1px solid #ddd;
+                        }
+                        
+                        .skil{
+                            padding:20px 0 0 0;
+                            
+                            .skill1{
+                                display:flex;
+                                padding: 10px 0;
+                                .left{
+                                    width:30%;
+                                    h2{
+                                        font-weight:700;
+                                        font-size:25px;
+                                        i{
+                                            padding:0 5px 0 0 ;
+                                            font-weight:700;
+                                        }
+                                    }
+                                }
+                                
+                                
+                            }
+                            .skill2{
+                                display:flex;
+                                padding: 10px 0;
+                                .left{
+                                    width:30%;
+                                    h2{
+                                        font-weight:700;
+                                        font-size:25px;
+                                        i{
+                                            padding:0 5px 0 0 ;
+                                            font-weight:700;
+                                        }
+                                    }
+                                }
+                               
+                                
+                            }
+                            .skill3{
+                                display:flex;
+                                padding: 10px 0;
+                                .left{
+                                    width:30%;
+                                    h2{
+                                        font-weight:700;
+                                        font-size:25px;
+                                        i{
+                                            padding:0 5px 0 0 ;
+                                            font-weight:700;
+                                        }
+                                    }
+                                }
+                               
+                                
+                                
+                            }
+
+                        }
+                    }
+                }
+           }
+        }
+    }
+}
